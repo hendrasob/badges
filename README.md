@@ -75,13 +75,19 @@ Badge | URL
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" /> | `https://img.shields.io/badge/License-MIT-blue.svg`
 <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> | `https://img.shields.io/badge/License-GPLv3-blue.svg`
 <img src="https://img.shields.io/badge/License-GPL-blue.svg" /> | `https://img.shields.io/badge/License-GPL-blue.svg`
+<img src="https://img.shields.io/badge/License-CC--0-blue.svg" /> | `https://img.shields.io/badge/License-CC--0-blue.svg`
+<img src="https://licensebuttons.net/l/by/3.0/88x31.png" /> | `https://licensebuttons.net/l/by/3.0/88x31.png`
+<img src="https://licensebuttons.net/l/by-nd/3.0/88x31.png" /> | `https://licensebuttons.net/l/by-nd/3.0/88x31.png`
+<img src="https://licensebuttons.net/l/by-nc/3.0/88x31.png" /> | `https://licensebuttons.net/l/by-nc/3.0/88x31.png`
+<img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" /> | `https://licensebuttons.net/l/by-sa/3.0/88x31.png`
+<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" /> | `https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png`
 
 
 ## Reference
 
 - [Shields.io](https://shields.io/)
 - [LicenseButtons.net](https://licensebuttons.net/)
-- [SimpleIcons.org](https://simpleicons.org/)
+
 <br />
 <div align="center">
 
