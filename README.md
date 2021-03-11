@@ -3,6 +3,7 @@
 A list of badges in a repo with Markdown code, that you can be include in the `README.md` file for github.
 
 ## Table of content
+- [Contact](#contact-)
 - [Social](#social-)
 - [Operating System](#operating-system-)
 - [Skills](#skills-)
@@ -17,6 +18,17 @@ A list of badges in a repo with Markdown code, that you can be include in the `R
 ```markdown
  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ```
+
+
+## Contact [↑](#list-of-badges-for-your-profile)
+
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`
 
 
 ## Social [↑](#list-of-badges-for-your-profile)
