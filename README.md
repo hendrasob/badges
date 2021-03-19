@@ -5,6 +5,7 @@ A list of badges in a repo with Markdown code, that you can be include in the `R
 ## Table of content
 - [Contact](#contact-)
 - [Social](#social-)
+- [Blog](#blog-)
 - [Operating System](#operating-system-)
 - [Skills](#skills-)
 - [Funding](#funding-)
@@ -40,6 +41,15 @@ Badge | URL
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white`
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white`
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`
+
+
+## Blog [↑](#list-of-badges-for-your-profile)
+
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white`
 
 
 ## Operating System [↑](#list-of-badges-for-your-profile)
