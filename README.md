@@ -9,6 +9,7 @@ A list of badges in a repo with Markdown code, that you can be include in the `R
 - [Operating System](#operating-system-)
 - [Skills](#skills-)
 - [Funding](#funding-)
+- [Streaming](#streaming-)
 - [License](#license-)
 
 
@@ -92,6 +93,15 @@ Badge | URL
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white`
 <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /> | `https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white`
 <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" /> | `https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black`
+
+
+## Streaming [↑](#list-of-badges-for-your-profile)
+
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> | `https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white`
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
 
 
 ## License [↑](#list-of-badges-for-your-profile)
